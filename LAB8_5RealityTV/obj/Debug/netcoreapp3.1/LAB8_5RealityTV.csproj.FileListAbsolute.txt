@@ -1,0 +1,13 @@
+C:\Users\nalle\source\repos\LAB8_5RealityTV\LAB8_5RealityTV\bin\Debug\netcoreapp3.1\LAB8_5RealityTV.exe
+C:\Users\nalle\source\repos\LAB8_5RealityTV\LAB8_5RealityTV\bin\Debug\netcoreapp3.1\LAB8_5RealityTV.deps.json
+C:\Users\nalle\source\repos\LAB8_5RealityTV\LAB8_5RealityTV\bin\Debug\netcoreapp3.1\LAB8_5RealityTV.runtimeconfig.json
+C:\Users\nalle\source\repos\LAB8_5RealityTV\LAB8_5RealityTV\bin\Debug\netcoreapp3.1\LAB8_5RealityTV.runtimeconfig.dev.json
+C:\Users\nalle\source\repos\LAB8_5RealityTV\LAB8_5RealityTV\bin\Debug\netcoreapp3.1\LAB8_5RealityTV.dll
+C:\Users\nalle\source\repos\LAB8_5RealityTV\LAB8_5RealityTV\bin\Debug\netcoreapp3.1\LAB8_5RealityTV.pdb
+C:\Users\nalle\source\repos\LAB8_5RealityTV\LAB8_5RealityTV\obj\Debug\netcoreapp3.1\LAB8_5RealityTV.csprojAssemblyReference.cache
+C:\Users\nalle\source\repos\LAB8_5RealityTV\LAB8_5RealityTV\obj\Debug\netcoreapp3.1\LAB8_5RealityTV.AssemblyInfoInputs.cache
+C:\Users\nalle\source\repos\LAB8_5RealityTV\LAB8_5RealityTV\obj\Debug\netcoreapp3.1\LAB8_5RealityTV.AssemblyInfo.cs
+C:\Users\nalle\source\repos\LAB8_5RealityTV\LAB8_5RealityTV\obj\Debug\netcoreapp3.1\LAB8_5RealityTV.csproj.CoreCompileInputs.cache
+C:\Users\nalle\source\repos\LAB8_5RealityTV\LAB8_5RealityTV\obj\Debug\netcoreapp3.1\LAB8_5RealityTV.dll
+C:\Users\nalle\source\repos\LAB8_5RealityTV\LAB8_5RealityTV\obj\Debug\netcoreapp3.1\LAB8_5RealityTV.pdb
+C:\Users\nalle\source\repos\LAB8_5RealityTV\LAB8_5RealityTV\obj\Debug\netcoreapp3.1\LAB8_5RealityTV.genruntimeconfig.cache
